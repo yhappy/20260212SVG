@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>马元素</title>
-</head>
-
-<body>
-    <section
+  <section
         style="-webkit-touch-callout:none;user-select:text;overflow: hidden;text-align: center;line-height: 0;margin-bottom: 0px;">
         <!-- p1 -->
         <section style="text-align: center; line-height: 0;width: 100%;margin: 0px auto;margin-top: -1px;">
@@ -1211,6 +1201,3 @@
             </svg>
         </section>
     </section>
-</body>
-
-</html>
